@@ -8,7 +8,7 @@
 </a>
 
 - 🔭 I’m currently working on [Eye Planet, Sales tracking app for an optical shop](https://eyeplanet.lk)
-- 🔭 I’m currently working on [Simzilla](www.simzilla.com) as a Front-end Developer
+- 🔭 I’m currently working on [Simzilla](https://www.simzilla.com/) as a Front-end dev
 
 - 🌱 I’m currently learning **Spring Boot**
 
