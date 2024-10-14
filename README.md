@@ -7,8 +7,8 @@
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on [Eye Planet, Sales tracking app](https://eyeplanet.lk) as the full-stack developer.
-- 🔭 I’m currently working on [Simzilla](https://www.simzilla.com/) as the UI developer
+- 🔭 I’m currently working on [Eye Planet, Sales tracking app](https://eyeplanet.lk) as the DevOps developer.
+- 🔭 I’m currently working on [Simzilla](https://www.simzilla.com/) as the Front-end developer
 - 🔭 I’m currently working on [Bodimkarayo](https://bodimkarayo.lk/) as the Front-end developer
 
 - 🌱 I’m currently learning **Spring Boot**
